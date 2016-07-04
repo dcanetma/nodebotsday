@@ -225,26 +225,6 @@
 
         "coordinates": [
 
-          2.198792,
-
-          41.40794
-        ]
-      },
-      "properties": {
-
-        "name": "Barcelona, Spain"
-
-      }
-    },
-    {
-      "type": "Feature",
-
-      "geometry": {
-
-        "type": "Point",
-
-        "coordinates": [
-
           -87.63587,
 
           41.90078
